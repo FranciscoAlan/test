@@ -1,0 +1,15 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "pruebas de sass",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Romero",
+  "license": "MIT"
+}

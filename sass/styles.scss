@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'header';
+h1{
+    color: $colorUno;
+}
+section{
+    height: 300px;
+    background-color: $colorTres;
+}
+footer{
+    height: 100px;
+    background-color: $colorCuatro;
+}

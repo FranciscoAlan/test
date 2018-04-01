@@ -1,0 +1,16 @@
+header {
+  height: 200px;
+  background-color: yellow; }
+
+h1 {
+  color: red; }
+
+section {
+  height: 300px;
+  background-color: green; }
+
+footer {
+  height: 100px;
+  background-color: blue; }
+
+/*# sourceMappingURL=styles.css.map */
